@@ -15,6 +15,27 @@
         text-decoration: none;
     }
     /* header end here  */
+    /* banner section start from here  */
+    .banner{
+        flex-direction: column;
+    }
+    .banner_font{
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    .card_img1 {
+        top: 50%;
+        left: 78px;
+    }
+    .card_img2 {
+        top: 13%;
+        left: 390px;
+    }
+     
+
+
+
+    /* banner section end here  */
 
  }
 @media (min-width: 576px) and (max-width: 767.98px) { 
