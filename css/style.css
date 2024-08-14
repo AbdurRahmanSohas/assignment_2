@@ -5,6 +5,7 @@
     font-weight: 400;
     font-style: normal;
 }
+
 @import url('https://fonts.cdnfonts.com/css/miama');
 
 @font-face {
@@ -13,15 +14,17 @@
 }
 
 /* header start from here  */
-.inter-font{
+.inter-font {
     background-color: #000000;
 }
+
 .fullbox {
     height: 715px;
     margin: 0 auto;
     padding-top: 10px;
     /* background: linear-gradient(#111111, #777777); */
 }
+
 .main_header {
     width: 1060px;
     height: 46px;
@@ -31,53 +34,60 @@
     justify-content: space-between;
     margin-top: 30px;
 }
+
 .fitness {
     color: rgb(230, 83, 60);
     font-size: 36px;
     font-weight: 800;
 }
+
 .menu {
     border: 1px solid white;
     border-radius: 20px;
 }
+
 .ul_menu {
     margin-right: 25px;
     display: flex;
     gap: 30px;
     padding-left: 4px;
 }
+
 ul li {
     list-style: none;
 }
+
 ul li a {
     text-decoration: none;
     color: white;
     font-size: 20px;
 }
+
 #home_id {
     background-color: #E6533C;
     padding: 12px 30px;
     border-radius: 18px;
 }
+
 .hambar_menu {
     display: none;
     color: white;
     font-size: 30px;
 }
+
 /* header end here */
 /* banner start from here  */
 .banner {
     width: 1060px;
-    height: 715px;
-    /* border: 2px solid red; */
+    height: 628px;
     margin: 0 auto;
     margin-top: 60px;
     display: flex;
-    /* background: linear-gradient(180.00deg, rgb(17, 17, 17), rgba(119, 119, 119, 0) 100%); */
 }
 
 .banner_font {
     color: rgb(255, 255, 255);
+    height: 600px;
     font-family: Inter;
     font-size: 30px;
     font-weight: 900;
@@ -86,7 +96,8 @@ ul li a {
     text-align: start;
     padding-left: 20px;
 }
-.pbh{
+
+.pbh {
     line-height: 105px;
     margin-bottom: 20px important;
 }
@@ -140,8 +151,10 @@ ul li a {
     height: 580px;
     padding-left: 160px;
 }
-.banner_img{
+
+.banner_img {
     position: relative;
+    height: 600px;
 }
 
 .card_img1 {
@@ -152,25 +165,29 @@ ul li a {
     border-radius: 12px;
     background: rgba(48, 48, 48, 0.54);
     text-align: center;
-    top: 58%;
+    top: 72%;
     left: 75px;
 }
-.card_img1, h2{
+
+.card_img1, h2 {
     color: white;
     margin-bottom: 0px;
     margin-top: 5px;
 
 }
-.card_img1, p{
+
+.card_img1, p {
     margin-top: 5px;
     color: #FFFFFF80;
     font-size: 14px;
 }
-.card_img1, h2, p{
+
+.card_img1, h2, p {
     /* text-align: start; */
-    
+
 }
-.ball{
+
+.ball {
     background-color: #E6533C;
     height: 34px;
     width: 34px;
@@ -181,10 +198,12 @@ ul li a {
     margin-bottom: -24px;
     display: inline-block;
 }
-#pb{
+
+#pb {
     margin-left: 34px;
 
 }
+
 .card_img2 {
     position: absolute;
     width: 150px;
@@ -194,16 +213,104 @@ ul li a {
     background: rgba(48, 48, 48, 0.54);
     text-align: start;
     padding: 10px 0px 0px 20px;
-    top: 22%;
-    left: 390px;
+    top: 24%;
+    left: 386px;
 }
 
-.banner_img {
-    
-}
-
-
-
-
+.banner_img {}
 
 /* banner end here */
+/* habit section start from here  */
+
+.news {
+    text-align: center;
+}
+
+.news, h1 p {
+    color: white;
+}
+
+.habit {
+    width: 1060px;
+    height: 460px;
+    margin: 0 auto;
+}
+
+.img_card1 {
+    text-align: center;
+}
+
+.imgc img {
+    border-radius: 50%;
+}
+
+.habit_img {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* habit section end here  */
+/* run section start here  */
+.run {
+    width: 1060px;
+    height: 330px;
+    border-radius: 14px;
+    margin: 0 auto;
+    background-color: #222222;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.run_font{
+    margin-right: 60px;
+}
+.run_font, h1 {
+    color: white;
+    margin-top: 9px;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 900;
+}
+.run_font, p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+}
+.button_run {
+    color: white;
+    border-radius: 42px;
+    border: none;
+    background: rgb(230, 83, 60);
+    width: 224px;
+    height: 54px;
+    margin-right: 10px;
+}
+/* run section end here  */
+/* team start here  */
+.team{
+    margin: 60px;
+    /* width: 1060px; */
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+.team_img{
+
+}
+#imgt{
+    height: 220px;
+    width: 220px;
+}
+.timg_card1{
+    position: relative;
+
+}
+.team_font{
+    position: absolute;
+    bottom: 20px;
+    padding-left: 20px;
+
+}
+
+/* team end here  */

@@ -32,10 +32,16 @@
         left: 390px;
     }
      
-
-
-
     /* banner section end here  */
+    /* habit section start here  */
+
+    /* habit section end here  */
+    /* run section start here  */
+    .run{
+        margin-top: 162px;
+    }
+
+    /* run section end here  */
 
  }
 @media (min-width: 576px) and (max-width: 767.98px) { 
