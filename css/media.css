@@ -1,0 +1,31 @@
+@media (max-width: 575.98px) { 
+/* header start from here  */
+    .main_header {
+        margin-top: 52px;
+    }
+    .fitness {
+        font-size: 62px;
+    }
+    .ul_menu{
+        display: none;
+    }
+    .hambar_menu{
+        display: block;
+        font-size: 60px;
+        text-decoration: none;
+    }
+    /* header end here  */
+
+ }
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+ }
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+ }
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+@media (min-width: 1200px){
+
+}
