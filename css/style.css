@@ -317,7 +317,8 @@ ul li a {
 }
 
 .team_hed {
-    margin: 70px 0px;
+    margin-top: 70px;
+    margin-bottom: 60px;
 }
 
 .team_img {
@@ -443,7 +444,7 @@ ul li a {
 
 .hr p {
     text-align: center;
-    margin: 20px 0px;
+    padding: 20px 0px;
 }
 
 /* line section end here  */

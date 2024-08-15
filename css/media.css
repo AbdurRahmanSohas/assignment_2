@@ -198,28 +198,28 @@
     }
 
     .footer {
-        display: grid;
-        grid-template-columns: column;
+        /* display: grid;
+        grid-template-columns: column; */
     }
 
     .footer_middle {
         width: 250px;
         text-align: start;
-        margin: 20px 0px;
+        /* margin: 20px 0px; */
 
     }
 
     .footer {
-        width: 90%;
+        /* width: 90%; */
     }
 
     .hr {
-        width: 90%;
+        /* width: 90%; */
     }
 
     .hr p {
-        text-align: start;
-        padding-bottom: 16px;
+        /* text-align: start;
+        padding-bottom: 16px; */
     }
 
 
