@@ -1,227 +1,229 @@
 @media (max-width: 575.98px) {
-        /* header start from here  */
-        .main_header {
-            width: 90%;
-            margin: 0 auto;
-            align-items: center;
-            justify-content: space-between;
-            margin-top: 30px;
-        }
-    
-        .menu {
-            border: 0px solid white;
-            border-radius: 0px;
-        }
-    
-        .b_black {
-            margin-bottom: 40px;
-        }
-    
-        .fitness {
-            font-size: 36px;
-        }
-    
-        .fitness h1 {
-            font-size: 36px;
-            font-weight: 800;
-        }
-    
-        .ul_menu {
-            display: none;
-        }
-    
-        .hambar_menu {
-            display: block;
-            font-size: 30px;
-            text-decoration: none;
-            list-style: none;
-        }
-    
-        /* header end here  */
-        /* banner section start from here  */
-        .banner {
-            flex-direction: column;
-            width: 90%;
-        }
-    
-        .banner_font {
-            text-align: center;
-            margin-bottom: 70px;
-            width: 90%;
-            margin: 0px auto 70px;
-            padding-left: 0px;
-        }
-    
-        .bnr_font {
-            text-align: start;
-            justify-content: start;
-        }
-    
-        .button_c {
-            width: 190px;
-            height: 46px;
-        }
-    
-        .button_b {
-            width: 190px;
-            height: 46px;
-        }
-    
-        .b_img {
-            padding-left: 0px;
-            /* width: 90%; */
-            margin: 0 auto;
-            padding-left: 0px;
-            width: 90%;
-            margin: 0 auto;
-            width: 334px;
-        }
-    
-        .card_img1 {
-            top: 48%;
-            left: 48px;
-        }
-    
-        .card_img2 {
-            top: 13%;
-            left: 277px;
-        }
-    
-    
-        /* banner section end here  */
-        /* habit section start here  */
-        .habit {
-            width: 90%;
-            height: auto;
-            margin-top: 540px;
-        }
-    
-        .habit_img {
-            margin-top: 25px;
-            display: grid;
-            grid-template-areas:
-                "a"
-                "b"
-                "c"
-                "d";
-        }
-    
-        .habit_hed {
-            text-align: center;
-            margin-bottom: 60px;
-            margin-top: 0px;
-        }
-        .img_card1{
-            margin: 16px 0px;
-        }
-    
-        /* habit section end here  */
-        /* run section start here  */
-        .run {
-            display: grid;
-            /* text-align: center;
+
+    /* header start from here  */
+    .main_header {
+        width: 90%;
+        margin: 0 auto;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 30px;
+    }
+
+    .menu {
+        border: 0px solid white;
+        border-radius: 0px;
+    }
+
+    .b_black {
+        margin-bottom: 40px;
+    }
+
+    .fitness {
+        font-size: 36px;
+    }
+
+    .fitness h1 {
+        font-size: 36px;
+        font-weight: 800;
+    }
+
+    .ul_menu {
+        display: none;
+    }
+
+    .hambar_menu {
+        display: block;
+        font-size: 30px;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    /* header end here  */
+    /* banner section start from here  */
+    .banner {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .banner_font {
+        text-align: center;
+        margin-bottom: 70px;
+        width: 90%;
+        margin: 0px auto 70px;
+        padding-left: 0px;
+    }
+
+    .bnr_font {
+        text-align: start;
+        justify-content: start;
+    }
+
+    .button_c {
+        width: 190px;
+        height: 46px;
+    }
+
+    .button_b {
+        width: 190px;
+        height: 46px;
+    }
+
+    .b_img {
+        padding-left: 0px;
+        /* width: 90%; */
+        margin: 0 auto;
+        padding-left: 0px;
+        width: 90%;
+        margin: 0 auto;
+        width: 334px;
+    }
+
+    .card_img1 {
+        top: 48%;
+        left: 48px;
+    }
+
+    .card_img2 {
+        top: 13%;
+        left: 277px;
+    }
+
+
+    /* banner section end here  */
+    /* habit section start here  */
+    .habit {
+        width: 90%;
+        height: auto;
+        margin-top: 540px;
+    }
+
+    .habit_img {
+        margin-top: 25px;
+        display: grid;
+        grid-template-areas:
+            "a"
+            "b"
+            "c"
+            "d";
+    }
+
+    .habit_hed {
+        text-align: center;
+        margin-bottom: 60px;
+        margin-top: 0px;
+    }
+
+    .img_card1 {
+        margin: 16px 0px;
+    }
+
+    /* habit section end here  */
+    /* run section start here  */
+    .run {
+        display: grid;
+        /* text-align: center;
             justify-content: center; */
-            margin-top: 60px;
-            padding-bottom: 40px;
-            padding-top: 20px;
-            height: auto;
-            width: 90%;
-        }
-    
-        .run_font {
-            text-align: start;
-            justify-content: start;
-            margin-right: 0px;
-        }
-    
-        .run_font p {
-            margin-bottom: 18px;
-        }
-    
-        .run_img img {
-            height: 390px;
-            width: 390px;
-            border-radius: 20px;
-            margin-top: 27px;
-        }
-        .button_run {
-            width: 390px;
-            height: 42px;
-        }
-    
-        /* run section end here  */
-        /* team section start here  */
-        .team_media {
-            margin: 60px;
-            margin: 0 auto;
-            background-color: #1a1a1a;
-            padding: 0px 0px 18px 24px;
-            border-radius: 14px;
-            display: grid;
-            grid-template-areas:
-                "a"
-                "b"
-                "c"
-                "d"
-                "e"
-                "f";
-        }
-    
-        .team_hed {
-            margin: 70px 0px;
-            width: 90%;
-            text-align: center;
-            justify-content: center;
-            margin: 0 auto;
-            margin-top: 60px;
-            margin-bottom: 30px;
-        }
-    
-        .font {
-            text-align: start;
-            left: 24px;
-        }
-    
-        /* .team_img img {
-            width: 420px;
-            height: 336px;
-        } */
-    
-        /* team section end here  */
-        /* footer section start here  */
-        .f_background {
-            background-color: #1a1a1a;
-            width: auto;
-            height: auto;
-        }
-        .footer {
-            display: grid;
-            /* grid-template-columns: column; */
-        }
-        .footer_middle {
-            width: 250px;
-            margin-left: 0px;
-            text-align: start;
-        }
-    
-        .footer {
-            width: 90%;
-            padding-left: 20px;
-        }
-        .fitness {
-            font-size: 50px;
-        }
-    
-        .hr {
-            /* width: 90%; */
-        }
-    
-        .hr p {
-            /* text-align: start;
-            padding-bottom: 16px; */
-        }
-    
-    
+        margin-top: 60px;
+        padding-bottom: 40px;
+        padding-top: 20px;
+        height: auto;
+        width: 90%;
+    }
+
+    .run_font {
+        text-align: start;
+        justify-content: start;
+        margin-right: 0px;
+    }
+
+    .run_font p {
+        margin-bottom: 18px;
+    }
+
+    .run_img img {
+        height: 384px;
+        width: 390px;
+    }
+
+    .button_run {
+        width: 390px;
+        height: 42px;
+    }
+
+    /* run section end here  */
+    /* team section start here  */
+    .team_media {
+        text-align: center;
+        justify-content: center;
+        width: 90%;
+        padding-left: 0px;
+        grid-template-areas:
+            "a"
+            "b"
+            "c"
+            "d"
+            "e"
+            "f";
+    }
+
+    .team_hed {
+        margin: 70px 0px;
+        width: 90%;
+        text-align: center;
+        justify-content: center;
+        margin: 0 auto;
+        margin-top: 60px;
+        margin-bottom: 30px;
+    }
+
+    .font {
+        text-align: start;
+        left: 24px;
+    }
+
+    .team_img img {
+        width: 420px;
+        height: 336px;
+    }
+
+    /* team section end here  */
+    /* footer section start here  */
+    .f_background {
+        background-color: #1a1a1a;
+        width: auto;
+        height: auto;
+    }
+
+    .footer {
+        display: grid;
+        /* grid-template-columns: column; */
+    }
+
+    .footer_middle {
+        width: 250px;
+        margin-left: 0px;
+        text-align: start;
+    }
+
+    .footer {
+        width: 90%;
+        padding-left: 20px;
+    }
+
+    .fitness {
+        font-size: 40px;
+    }
+
+    .hr {
+        width: 90%;
+    }
+
+    .hr p {
+        text-align: start;
+        padding: 20px 0px;
+    }
+
+
     /* footeer section end here  */
 
 }

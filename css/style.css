@@ -300,6 +300,12 @@ ul li a {
     height: 54px;
     margin-right: 10px;
 }
+.run_img img {
+    height: 280px;
+    width: 312px;
+    border-radius: 20px;
+    margin-top: 27px;
+}
 
 /* run section end here  */
 /* team start here  */
